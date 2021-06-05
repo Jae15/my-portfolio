@@ -1,7 +1,13 @@
+body {
+  background-color: lightblue;
+}
+
 h1 {
-    color: blueviolet;
-    font-style: italic;
-  }
-  h2 {color: cadetblue
-    font-style: italic
-    ;}
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
